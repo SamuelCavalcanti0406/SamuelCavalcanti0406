@@ -10,14 +10,6 @@ _"I am a technology student, always eager to learn more. Every challenge is just
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-##  statistics
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelCavalcanti&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCavalcanti&layout=compact&theme=radical)
-
-
-
 ## 📫 find me!
 - 💼 [LinkedIn](https://www.linkedin.com/in/samcoronel)  
-- ✉️ Email: samcronwell@gmail.com
+- ✉️ samcronwell@gmail.com

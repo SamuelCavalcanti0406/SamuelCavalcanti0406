@@ -1,6 +1,6 @@
 # hello, i am Samuel Cavalcanti
 
-_"I am a technology student, always eager to learn more. Every challenge is just another path to grow and gain knowledge."_  
+I am a technology student, always eager to learn more. Every challenge is just another path to grow and gain knowledge.
 <hr>
 <p align="left">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" />
@@ -13,5 +13,5 @@ _"I am a technology student, always eager to learn more. Every challenge is just
 
 
 ## 📫 find me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samcoronel)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samcronwell@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/samcoronel)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samcronwell@gmail.com)
